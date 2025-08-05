@@ -14,11 +14,13 @@ header {
     background-color: black;
     color: #f1f1f1;
     text-align: center;
+    
 }
 
 header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
+    font-size: 10vw;
 }
 
 header > p {
